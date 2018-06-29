@@ -2,13 +2,11 @@ package de.ptaszyk.verbosesdk;
 
 import android.annotation.TargetApi;
 import android.os.Build;
-import android.util.Log;
 
 import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.time.LocalDate;
-import java.util.Calendar;
 import java.util.Date;
 import java.util.Locale;
 
